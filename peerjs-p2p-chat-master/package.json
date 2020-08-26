@@ -1,0 +1,23 @@
+{
+  "main": "index.html",
+  "name": "AndrewCheChatqqqqq",
+  "description": "Chat",
+  "version": "1.1.0",
+  "keywords": [ "Andrew", "Chat" ],
+  "window": {
+    "title": "Chat",
+    "icon": "icon.png",
+    "toolbar": true,
+    "frame": false,
+    "width": 800,
+    "height": 500,
+    "position": "mouse",
+    "min_width": 400,
+    "min_height": 200,
+    "max_width": 800,
+    "max_height": 600
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
